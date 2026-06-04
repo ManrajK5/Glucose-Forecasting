@@ -2,6 +2,8 @@ data/raw/
 data/processed/
 models/
 *.csv
+!examples/
+!examples/synthetic_libreview_demo.csv
 *.pkl
 *.joblib
 __pycache__/

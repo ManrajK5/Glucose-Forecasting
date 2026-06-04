@@ -56,6 +56,12 @@ Scan Glucose mmol/L
 
 The loader also handles common LibreView variants such as metadata rows before the header, `Device Timestamp`, empty scan glucose columns, and glucose values in either mmol/L or mg/dL.
 
+A privacy-safe synthetic upload file is included at:
+
+```text
+examples/synthetic_libreview_demo.csv
+```
+
 ## Notebook Workflow
 
 Run notebooks in order:
