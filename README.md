@@ -82,10 +82,3 @@ Upload a LibreView CSV, enter or confirm the current glucose reading, and genera
 
 Glucose traces and timestamps are sensitive health-related data. Keep raw files local, avoid committing data, and remove personal identifiers before sharing outputs. The `.gitignore` excludes raw data, processed data, and saved models by default.
 
-## Resume Bullets
-
-- Built an end-to-end machine learning pipeline for glucose forecasting using OhioT1DM-style XML data.
-- Engineered lag, rolling-window, trend, and time-based features for multi-horizon time-series prediction.
-- Trained and evaluated baseline, linear regression, and XGBoost models with chronological per-patient splits.
-- Developed a Streamlit app that loads saved models and predicts future glucose from LibreView CSV uploads.
-- Applied privacy-conscious project structure that excludes health data and model artifacts from version control.
