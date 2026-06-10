@@ -62,6 +62,9 @@ A privacy-safe synthetic upload file is included at:
 examples/synthetic_libreview_demo.csv
 ```
 
+<img width="1858" height="934" alt="Screenshot 2026-06-10 at 7 57 56 PM" src="https://github.com/user-attachments/assets/95ea7abc-4f39-48e3-b636-56b0859e6ffa" />
+
+
 ## Notebook Workflow
 
 Run notebooks in order:
